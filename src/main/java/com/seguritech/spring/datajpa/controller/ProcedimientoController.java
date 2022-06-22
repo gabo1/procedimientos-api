@@ -22,7 +22,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.seguritech.spring.datajpa.dto.EstatusEnum;
 import com.seguritech.spring.datajpa.dto.ProcedimientoDTO;
-import com.seguritech.spring.datajpa.dto.ResultadoEnum;
 import com.seguritech.spring.datajpa.model.Procedimiento;
 import com.seguritech.spring.datajpa.repository.ProcedimientoRepository;
 
